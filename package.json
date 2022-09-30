@@ -1,0 +1,23 @@
+{
+  "name": "ts-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc --watch --preserveWatchOutput"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crazydevz/ts-demo.git"
+  },
+  "author": "Talha Iqbal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crazydevz/ts-demo/issues"
+  },
+  "homepage": "https://github.com/crazydevz/ts-demo#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
