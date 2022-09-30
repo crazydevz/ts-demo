@@ -4,8 +4,9 @@
     "noImplicitAny": true,
     "removeComments": true,
     "preserveConstEnums": true,
-    "outFile": "../dist/bundle.js",
+    "outFile": "./dist/bundle.js",
     "sourceMap": true
   },
   "include": ["./"]
+  //   "exclude": ["node_modules"]
 }
