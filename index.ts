@@ -1,3 +1,3 @@
-let myStr = "Welcome to TS Demo";
+let myStr = "Welcome to TS Tutorial";
 
 console.log(myStr);
